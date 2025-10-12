@@ -21,6 +21,14 @@
 # print(a<=b) #True
 # print(a>=b) #False
 
+# Logical operators-returns boolean value
+#and or not
+
+# a=True
+# b=False
+# print(a and b) #False
+# print(a or b)  #True
+# print(not a)   #False
 
 
 
