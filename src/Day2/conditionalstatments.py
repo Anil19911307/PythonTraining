@@ -28,21 +28,21 @@
 # a=25
 # {print("Hello"),print("Python")} if a<=20 else {print("Hello"),print("java")} #ternary operator
 
-weekno=9
-if weekno==1:
-    print("sunday")
-elif weekno==2:
-    print("monday")
-elif weekno==3:
-    print("tuesday")
-elif weekno==4:
-    print("wednesday")
-elif weekno==5:
-    print("thursday")
-elif weekno==6:
-    print("friday")
-elif weekno==7:
-    print("saturday")
-else:
-    print("invalid weekno")
+# weekno=9
+# if weekno==1:
+#     print("sunday")
+# elif weekno==2:
+#     print("monday")
+# elif weekno==3:
+#     print("tuesday")
+# elif weekno==4:
+#     print("wednesday")
+# elif weekno==5:
+#     print("thursday")
+# elif weekno==6:
+#     print("friday")
+# elif weekno==7:
+#     print("saturday")
+# else:
+#     print("invalid weekno")
 
