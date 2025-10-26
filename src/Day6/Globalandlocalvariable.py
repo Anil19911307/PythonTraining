@@ -32,3 +32,5 @@
 #     print(xy)
 # func()
 # print(xy)
+
+len("I am Batman")

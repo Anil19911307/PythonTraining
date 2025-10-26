@@ -27,6 +27,8 @@
 
 #Example 5;
 
-def func(a,b):
-    print(a+b)
-func(10,20)
+# def func(a,b):
+#     print(a+b)
+# func(10,20)
+name="I am Batman"
+print(len(name))
