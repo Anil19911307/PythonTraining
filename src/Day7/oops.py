@@ -19,7 +19,7 @@
 #         print(self,num)
 # myobj = MyClass()
 # myobj.m1()
-# # myobj.m2(100,200)
+#  myobj.m2(100,200)
 #
 # MyClass.m2(100,200) #calling through class ot object
 
@@ -107,16 +107,16 @@
 # mc2.display()
 
 
-class Employee:
-    def __init__(self, name, age, salary):
-        self.name = name
-        self.age = age
-        self.salary = salary
-    def __str__(self):
-        return(self.name)
-
-mc1=Employee("Michael", 25, 10000)
-print(mc1)
+# class Employee:
+#     def __init__(self, name, age, salary):
+#         self.name = name
+#         self.age = age
+#         self.salary = salary
+#     def __str__(self):
+#         return(self.name)
+#
+# mc1=Employee("Michael", 25, 10000)
+# print(mc1)
 
 
 
